@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+.header{
+    padding:1%;
+    background-color: #4668b3;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    color:white;
+}
+/* #header-column1{
+    padding:1%;
+} */
+#header-column2 nav>button{
+    padding:0;
+    border:none;
+    background: none;
+    margin:15px;
+    color:white;
+    font-size: 20px;
+}
+#header-column3 button{
+    padding:10px;
+    color:white;
+    background-color: skyblue;
+    border:none;
+    border-radius:25px;
+}
